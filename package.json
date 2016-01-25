@@ -1,7 +1,7 @@
 {
   "name": "white-noise",
   "main": "./lib/white-noise",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom plugin for playing white noise.",
   "keywords": [
     "white noise",
