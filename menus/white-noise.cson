@@ -1,0 +1,21 @@
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle white-noise'
+      'command': 'white-noise:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'white-noise'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'white-noise:toggle'
+        }
+      ]
+    ]
+  }
+]

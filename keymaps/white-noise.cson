@@ -1,0 +1,5 @@
+'.platform-darwin':
+  'alt-shift-cmd-W': 'white-noise:toggle'
+
+'.platform-linux, .platform-win32':
+  'ctrl-alt-shift-W': 'white-noise:toggle'

@@ -1,0 +1,20 @@
+{
+  "name": "white-noise",
+  "main": "./lib/white-noise",
+  "version": "0.0.0",
+  "description": "Atom plugin for playing white noise.",
+  "keywords": [
+    "white noise",
+    "focus",
+    "distraction"
+  ],
+  "activationCommands": {
+    "atom-workspace": "white-noise:toggle"
+  },
+  "repository": "https://github.com/mjswensen/white-noise",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
